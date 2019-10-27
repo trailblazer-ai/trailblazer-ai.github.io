@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Get in Touch
 
-_yay_
+Contact page.
 
 [back](./)

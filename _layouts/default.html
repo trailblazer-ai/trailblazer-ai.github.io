@@ -18,19 +18,20 @@
 <body>
 
   <div class="wrapper">
-    <header>
-      <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
+    <header align=center>
+        <img src="assets/images/TrailBlazer_Logo_Jekyll.png" alt="TrailBlazer Logo" class="project-name" />
     </header>
     <div id="container">
-      <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
+      <i><p align=center class="tagline">{{ site.description | default: site.github.project_tagline }}</p></i>
       <div id="main" role="main">
         <div class="download-bar">
         <div class="inner">
-          {% if site.show_downloads %}
-          <a href="{{ site.github.tar_url }}" class="download-button tar"><span>Download</span></a>
-          <a href="{{ site.github.zip_url }}" class="download-button zip"><span>Download</span></a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="code">View {{ site.title | default: site.github.repository_name }} on GitHub</a>
+          <a href="index" class="download-button"><span>Blog</span></a>
+          <a href="contact_machine_learning_experts" class="download-button"><span>Contact</span></a>
+          <a href="machine_learning_certification" class="download-button"><span>Training</span></a>
+          <a href="data_science_consulting" class="download-button"><span>Consulting</span></a>
+          <a href="about_artificial_intelligence" class="download-button"><span>About</span></a>
+          <a href="{{ site.github.repository_url }}" class="code">TrailBlazer GitHub</a>
         </div>
         <span class="blc"></span><span class="trc"></span>
         </div>
@@ -57,8 +58,14 @@
   </div>
   <div class="current-section">
     <a href="#top">Scroll to top</a>
-    <a href="{{ site.github.tar_url }}" class="tar">tar</a><a href="{{ site.github.zip_url }}" class="zip">zip</a><a href="" class="code">source code</a>
+    <a href="data_science_machine_learning_blog" class="blog"></a>
+    <a href="contact_machine_learning_experts" class="contact">contact</a>
+    <a href="machine_learning_certification" class="train"></a>
+    <a href="machine_learning_engineers" class="consult"></a>
+    <a href="artificial_intelligence_consulting_services" class="about"></a>
+
     <p class="name"></p>
+
   </div>
 
   {% if site.google_analytics %}
