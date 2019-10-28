@@ -10,12 +10,12 @@ published: true
 >
 <p>
   <label>
-    <input type="text" name="_replyto" placeholder="Email">
+    <input type="text" name="_replyto" placeholder="What's your email address?">
   </label>
 </p>
 <p>
   <label>
-    <textarea name="message" placeholder="Your message ;)"></textarea>
+    <textarea name="message" placeholder="Your message goes here ;)"></textarea>
   </label>
 </p>
 
