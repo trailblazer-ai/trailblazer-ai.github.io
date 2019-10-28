@@ -5,7 +5,7 @@ published: true
 
 ## TrailBlazer.ai Professional Services
 
-![TrailBlazer.ai Data Science Consultants](/assets/img/Data_Science_Consulting.png){:class="img-responsive"}
+![TrailBlazer.ai Data Science Consultants](/assets/images/Data_Science_Consulting.png){:class="img-responsive"}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
