@@ -13,10 +13,11 @@ published: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our corporate clients are engaged through the [**TrailBlazer.ai Upwork Agency**](https://www.upwork.com/agencies/~01bab5176d3e25ccb0){:target="_blank"}, a boutique professional services organization that has delivered more than **5,000 hours** to date with a **100% Job Success** rating over the last almost two year period.
 
->“Opportunities multiply as they are seized.” --Sun Tzu
+>Opportunities multiply as they are seized.” --Sun Tzu
 
 #### Our Capabilities
 - **Data Science** - we help you make informed decisions about your data, algorithms, and target deep learning architecture based upon the most recent scientific and technological advances in the world of machine cognition. This includes identifying state-of-the-art deep learning architectures from the most recent advances in the scientific and academic communities, crafted with TensorFlow 2.0 and PyTorch machine learning frameworks. 
+  - Dataset feature engineering including advanced dataset visualization using unsupervised and supervised methods of clustering
   - Convolutional Neural Networks (CNN)
   - Long Short Term Memory (LSTM) networks
   - Sparse transformer networks for Natural Language Processing (NLP) applications such as sentiment analysis and chatbots (BERT, GPT-2, ConvNet)

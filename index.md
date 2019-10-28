@@ -4,7 +4,7 @@ layout: default
 
 ### Data Science Meets Deep Learning, Demystified
 
-> "Any sufficiently advanced technology is indistinguishable from magic." --Arthur C. Clarke
+> Any sufficiently advanced technology is indistinguishable from magic." --Arthur C. Clarke
 >
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TrailBlazer.ai** is a leading provider of deep learning and machine intelligence product and services development. We design, architect, and then implement for our customers state-of-the-art machine learning algorithms and artificial intelligence agents used for computer vision, Natural Language Processing (NLP), sentiment analysis, feature detection, and other related data science and deep learning applications. Discover more about TrailBlazer.ai professional services [**here**](https://TrailBlazer.ai/data_science_consulting).
