@@ -25,7 +25,7 @@ layout: default
 
 #### Dedicated Classes
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Life is complicated, but your corporate education missives don't have to be. Leave the guesswork to us and let TrailBlazer.ai handle the heavy lifting by providing your organization with a turnkey, onsite machine learning training package where our instructors come onsite to your location with everything needed to deliver one or more of our deep learning courses.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Life is complicated, but your corporate education missives don't have to be. Leave the guesswork to us and let TrailBlazer.ai handle the heavy lifting by providing your organization with a turnkey, onsite machine learning training package where our instructors come onsite to your location with everything needed to deliver one or more of our deep learning courses. Our corporate instructors have successfully delivered classes on every continent except Antarctica, but that can be arranged as well...
 - We bring each class attendee a GTX1060-class laptop optimized for machine learning training and with more than sufficient GPU horsepower to tackle all lab exercises during the week of instruction
 - More than 25 modules of instruction (four day format) or 30+ modules of instruction (five day bootcamp) are included with our machine learning courseware books given to each student
 - Each module of instruction includes at least one (1) hands on lab exercise from our student lab manual, also included with our deep learning courseware kits
