@@ -4,23 +4,30 @@ published: true
 ---
 
 ## Get in Touch
+![TrailBlazer.ai Data Science Contact Banner](/assets/images/deep_learning_contact.png){:class="img-responsive"}
 
 <form
   action="https://formspree.io/mnqabgpb"
   method="POST"
 >
+<p>
   <label>
-    Your email:
-    <input type="text" name="_replyto">
+    <input type="text" name="_replyto" placeholder="Email">
   </label>
+</p>
+<p>
   <label>
-    Your message:
-    <textarea name="message"></textarea>
+    <textarea name="message" placeholder="Your message ;)"></textarea>
   </label>
-
-  <!-- your other form fields go here -->
+</p>
 
   <button type="submit">Send</button>
 </form>
 
-[back](./)
+* * *
+
+**phone:** +01 727-859-2732<br>
+**email:** <a href="mailto:info@TrailBlazer.ai?subject=TrailBlazer.ai Contact Form Submission">**info@TrailBlazer.ai**</a>
+* * *
+
+[[**back**]](./)
