@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Data Science Meets Deep Learning, Demystified
+## Data Science Meets Deep Learning, Demystified
 
 > Any sufficiently advanced technology is indistinguishable from magic." --Arthur C. Clarke
 >
