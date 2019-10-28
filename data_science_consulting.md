@@ -3,128 +3,36 @@ layout: default
 published: true
 ---
 
-## TrailBlazer.ai Professional Services
+## TrailBlazer.ai Professional Services Group
 
 ![TrailBlazer.ai Data Science Consultants](/assets/images/Machine_Learning_Engineer.png){:class="img-responsive"}
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to a recent study conducted by Gartner Inc. [[**IT:NYSE**]](https://www.marketwatch.com/investing/stock/it){:target="_blank"}, by the Year 2020 organizations working with artificial intelligence and machine learning technologies anticipate doubling the amount of AI projects they have in place, yet those same respondents consistently ranked a shortage of staff technical skills as the top challenge for advanced AI / ML technology adoption.[[1]](https://www.gartner.com/en/newsroom/press-releases/2019-07-15-gartner-survey-reveals-leading-organizations-expect-t){:target="_blank"} 
 
-[Link to another page](./another-page.html).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We engage our corporate clients through the [**TrailBlazer.ai Upwork Agency**](https://www.upwork.com/agencies/~01bab5176d3e25ccb0){:target="_blank"}, a boutique professional services organization that has delivered more than **5,000 hours** to date with a **100% Job Success** rating over the last almost two year period.
 
-There should be whitespace between paragraphs.
+>“Opportunities multiply as they are seized.” --Sun Tzu
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+#### Our Capabilities
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TrailBlazer.ai Professional Services Group** offers a wide array of expert level talent in the machine intelligence arena, boasting core competencies in data science, deep learning, machine vision, and embedded robotics fields of research and development.
 
-# Header 1
+- **Data Science** - we help you make informed decisions about your data, algorithms, and target deep learning architecture based upon the most recent scientific and technological advances in the world of machine cognition. This includes identifying state-of-the-art deep learning architectures from the most recent advances in the scientific and academic communities, crafted with TensorFlow 2.0 and PyTorch machine learning frameworks. 
+  - Convolutional Neural Networks (CNN)
+  - Long Short Term Memory (LSTM) networks
+  - Sparse transformer networks for Natural Language Processing (NLP) applications such as sentiment analysis and chatbots (BERT, GPT-2, ConvNet)
+  - Generative models such as Variational Autoencoder Networks (VAE), Adversarial Autoencoder Networks (AAE), and Generative Adversarial Networks (GAN)
+  - OpenCV 4 Machine Vision R&D (Structure from Motion, feature detection, objection location and detection, pose estimation)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **AI / ML DevOps Engineering** - our core focus is on the design and implementation of advanced deep learning architectures deployed within cloud- and datacenter-based enterprise computing environments. Our DevOps engineers specialize in identifying the most cost effective yet highest performing solution for your use case, implemented using industry best practices.
+  - Amazon Web Services (AWS)
+  - Serverless technologies
+  - Python and Golang development
 
-## Header 2
+- **Mobile App Development** - take your product MVP idea from zero to hero in record time using our mobile app developers. Our specialty is the design and delivery of highly performant iOS and Android apps augmented with hardware accelerated mobile AI / ML technologies, backed by high performance, industry standard APIs for AI / ML model serving.
+  - Swift development for iOS apps
+  - Java / Kotlin development for Android apps
+  - Flutter development for cross platform app generation
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Contact Us**](https://TrailBlazer.ai/contact_machine_learning_experts) today to schedule a no-obligation consultation on your project MVP.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-[back](./)
+[[**back**]](./)
