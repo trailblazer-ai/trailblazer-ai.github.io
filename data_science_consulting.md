@@ -16,7 +16,7 @@ published: true
 >Opportunities multiply as they are seized.” --Sun Tzu
 
 #### Our Capabilities
-- **Data Science** - we help you make informed decisions about your data, algorithms, and target deep learning architecture based upon the most recent scientific and technological advances in the world of machine cognition. This includes identifying state-of-the-art deep learning architectures from the most recent advances in the scientific and academic communities, crafted with TensorFlow 2.0 and PyTorch machine learning frameworks. 
+- **Data Science** - we help you make informed decisions about your data, algorithms, and target deep learning architecture based upon the most recent scientific and technological advances in the world of machine cognition. This includes identifying state-of-the-art deep learning architectures which are then custom crafted with TensorFlow 2.0 and PyTorch machine learning frameworks. 
   - Dataset feature engineering including advanced dataset visualization using unsupervised and supervised methods of clustering
   - Convolutional Neural Networks (CNN)
   - Long Short Term Memory (LSTM) networks
