@@ -2,10 +2,8 @@
 layout: default
 published: true
 ---
-
-## Get in Touch
 ![TrailBlazer.ai Data Science Contact Banner](/assets/images/deep_learning_contact.png){:class="img-responsive"}
-
+## Get in Touch
 <form
   action="https://formspree.io/mnqabgpb"
   method="POST"
