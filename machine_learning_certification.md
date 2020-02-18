@@ -15,10 +15,6 @@ layout: default
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delivered in both standard four (4) day and five (5) day extended hours bootcamp formats, our instructor-led deep learning courses are designed around the concept that an enthusiatic layperson with no formal AI / ML experience, if taught properly, can get up to speed with the most recent advances in machine learning and artificial intelligence technology, using an easy to comprehend educational format and training modality that makes gratuitous use of hands on lab exercises to reinforce each module of instructor lecture.
 
-#### Cruise Destination Training
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Contact Us**](https://TrailBlazer.ai/contact_machine_learning_experts) today to reserve a cabin on one of our upcoming all-inclusive international cruise destination classes.
-
 #### Online Live! Classes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Contact Us**](https://TrailBlazer.ai/contact_machine_learning_experts) today to reserve a seat in one of our upcoming Online Live! machine learning courses.
