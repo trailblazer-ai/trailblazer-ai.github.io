@@ -11,8 +11,6 @@ published: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TrailBlazer.ai Professional Services Group** offers a wide array of expert level talent in the machine intelligence arena, boasting core competencies in data science, deep learning, machine vision, and embedded robotics fields of research and development. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our corporate clients are engaged through the [**TrailBlazer.ai Upwork Agency**](https://www.upwork.com/agencies/~01bab5176d3e25ccb0){:target="_blank"}, a boutique professional services organization that has delivered more than **5,000 hours** to date with a **100% Job Success** rating over the last almost two year period.
-
 >Opportunities multiply as they are seized.” --Sun Tzu
 
 #### Our Capabilities
